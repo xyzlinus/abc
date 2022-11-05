@@ -1,12 +1,12 @@
 ---
 slug: second-blog-post
-title: First Blog Post
+title: Second Blog Post
 authors:
   name: Xyzlinus
-  title: Docusaurus Core Team
-  url: https://github.com/wgao19
+  title: Xyzlinus Dev Team
+  url: https://github.com/xyzlinus
   image_url: https://github.com/wgao19.png
-tags: [hola, docusaurus]
+tags: [coffe, docusaurus]
 ---
 
 ABC 123
