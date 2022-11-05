@@ -5,7 +5,7 @@ authors:
   name: Xyzlinus
   title: Xyzlinus Dev Team
   url: https://github.com/xyzlinus
-  image_url: https://github.com/wgao19.png
+  image_url: https://avatars.githubusercontent.com/u/52217114?v=4
 tags: [coffe, docusaurus]
 ---
 
