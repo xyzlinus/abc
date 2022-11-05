@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'xyzlinus',
+  tagline: 'Step by step...',
   url: 'https://xyzlinus.github.io',
   trailingSlash: false,
   baseUrl: '/abc',
@@ -58,10 +58,10 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       navbar: {
-        title: 'My Site',
+        title: 'xyzlinus',
         logo: {
-          alt: 'My Site Logo',
-          src: 'img/logo.svg',
+           alt: 'My Site Logo',
+           src: 'img/logo.svg',
         },
         items: [
           {
