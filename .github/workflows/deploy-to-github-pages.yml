@@ -37,6 +37,7 @@ jobs:
           cache: yarn
       - name: Install dependencies
         run:  yarn install --frozen-lockfile --non-interactive
+        run:  yarn add @docusaurus/theme-mermaid
       - name: Build
         run:  yarn build  
       - name: Setup Pages
